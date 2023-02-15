@@ -43,5 +43,5 @@ If the player beats their high score, the highscore variable is updated, and the
 
 ```
 
-   
+- [Click here to Guess The Number](https://45an.github.io/Guess-the-number-js/)
 
